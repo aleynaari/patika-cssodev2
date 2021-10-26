@@ -1,26 +1,45 @@
-#banner{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
 table{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
     border: 5px;
-    border-color: #fff;
+    border-color: #fff;     
+    width: 1300px;
+    padding-left: 65px;
 }
+
 #tabloGri{
     background-color: #eeeeee;
+    height: 80px;
 }
+
 #tbl1{
     background-color: #7EE5DA;
+    width: 37%;
 }
+
 #tbl2{
     background-color:#70CCC2;
+    font-size: 10pt;
+    
 }
+
 #tbl3{
     background-color:#62B3AA;
+    font-size: 10pt;
+    
+}
+
+#anahat{ 
+    display: block;
+    margin-left: auto;   
+    margin-right: auto;
+    
+} 
+header{ 
+    display: block;
+    margin-left: auto;   
+    margin-right: auto;
+    width: 26%;
+}
+
+p{
+    font-size: 10pt;
 }
