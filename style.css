@@ -1,0 +1,16 @@
+#banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background-color: #eeeeee;
+}
+body{
+    background-color: azure;
+}
